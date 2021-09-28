@@ -8,7 +8,7 @@ This is a paper collection of performance prediction for hardware
 4. HALWPE: Hardware-Assisted Light Weight Performance Estimation for GPUs [[DAC'17](https://dl.acm.org/doi/10.1145/3061639.3062257)]
 
 ## Program Properties
-1. Comparing Benchmarks Using Key Microarchitecture-Independent Characteristics[[IISWC'06](https://users.elis.ugent.be/~leeckhou/papers/iiswc06-hoste.pdf)]
+1. Comparing Benchmarks Using Key Microarchitecture-Independent Characteristics [[IISWC'06](https://users.elis.ugent.be/~leeckhou/papers/iiswc06-hoste.pdf)]
 
 
 ## Other Relevant Papers
