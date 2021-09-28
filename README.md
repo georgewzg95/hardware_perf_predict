@@ -7,6 +7,10 @@ This is a paper collection of performance prediction for hardware
 3. Accurate phase-level cross-platform power and performance estimation [[DAC'16](https://dl.acm.org/doi/10.1145/2830772.2830780)]
 4. HALWPE: Hardware-Assisted Light Weight Performance Estimation for GPUs [[DAC'17](https://dl.acm.org/doi/10.1145/3061639.3062257)]
 
+## Program Properties
+1. Comparing Benchmarks Using Key Microarchitecture-Independent Characteristics[[IISWC'06](https://users.elis.ugent.be/~leeckhou/papers/iiswc06-hoste.pdf)]
+
+
 ## Other Relevant Papers
 1. Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks [[ICML'19](https://arxiv.org/abs/1808.07412)][[code](https://github.com/ithemal/Ithemal)]
 2. GPGPU Performance and Power Estimation Using Machine Learning [[HPCA'15](http://users.ece.utexas.edu/~derek/Papers/HPCA2015_GPUPowerModel.pdf)]
