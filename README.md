@@ -9,3 +9,4 @@ This is a paper collection of performance prediction for hardware
 
 ## Other Relevant Papers
 1. Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks [[ICML'19](https://arxiv.org/abs/1808.07412)][[code](https://github.com/ithemal/Ithemal)]
+2. GPGPU Performance and Power Estimation Using Machine Learning [[HPCA'15](http://users.ece.utexas.edu/~derek/Papers/HPCA2015_GPUPowerModel.pdf)]
