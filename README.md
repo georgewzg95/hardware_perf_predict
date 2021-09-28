@@ -1,4 +1,4 @@
-# hardware_perf_predict
+# Hardware Performance Prediction
 This is a paper collection of performance prediction for hardware
 
 ## Cross-Platform performance prediction
