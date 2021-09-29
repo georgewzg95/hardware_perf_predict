@@ -15,6 +15,7 @@ This is a paper collection of performance prediction for hardware
 1. Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks [[ICML'19](https://arxiv.org/abs/1808.07412)][[code](https://github.com/ithemal/Ithemal)]
 2. GPGPU Performance and Power Estimation Using Machine Learning [[HPCA'15](http://users.ece.utexas.edu/~derek/Papers/HPCA2015_GPUPowerModel.pdf)]
 3. Pyramid: Machine Learning Framework to Estimate the Optimal Timing and Resource Usage of a High-Level Synthesis Design [[FPL'19](https://drive.google.com/file/d/1qxLMsXGCWUi4kG9kyOALviH1Cgd-iXA1/view?usp=sharing)]
+4. fast and accurate estimation of quality of results in high-level synthesis with machine learning [[FCCM'18](https://www.csl.cornell.edu/~zhiruz/pdfs/hls-qor-fccm2018.pdf)]
 
 ## Disertation
 1. Performance and Power Prediction of Compute Accelerators Using Machine Learning [[Link](https://drive.google.com/file/d/1RDAIQrshKoAtCXVA_7LNMJEL0-MbwLKW/view?usp=sharing)]
