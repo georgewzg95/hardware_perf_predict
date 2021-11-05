@@ -19,6 +19,7 @@ This is a paper collection of performance prediction for hardware
 5. APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors [[MICRO'21](https://dl.acm.org/doi/pdf/10.1145/3466752.3480064)]
 6. Machine Learning Based Routing Congestion Prediction in FPGA High-Level Synthesis [[DATE'19](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8714724)]
 7. Machine Learning for Electronic Design Automation: A Survey [[Survey](https://dl.acm.org/doi/pdf/10.1145/3451179)]
+8. Accurate operation delay prediction for FPGA HLS using graph neural networks [[ICCAD'20](https://www.csl.cornell.edu/~zhiruz/pdfs/dsp-gnn-iccad2020.pdf)]
 
 ## Disertation
 1. Performance and Power Prediction of Compute Accelerators Using Machine Learning [[Link](https://drive.google.com/file/d/1RDAIQrshKoAtCXVA_7LNMJEL0-MbwLKW/view?usp=sharing)]
