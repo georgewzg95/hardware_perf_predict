@@ -2,7 +2,7 @@
 This is a paper collection of performance prediction for hardware
 
 ## Cross-Platform performance prediction
-1. HLSPredict: Cross Platform Performance Prediction for FPGA High-Level Synthesis [[ICCAD'21](https://drive.google.com/file/d/1V9TmufJPI9mohLFng6NYh7PMjNGfqn6o/view?usp=sharing)]
+1. HLSPredict: Cross Platform Performance Prediction for FPGA High-Level Synthesis [[ICCAD'18](https://drive.google.com/file/d/1V9TmufJPI9mohLFng6NYh7PMjNGfqn6o/view?usp=sharing)]
 2. Cross-architecture performance prediction (XAPP) using CPU code to predict GPU performance [[MICRO'15](https://dl.acm.org/doi/10.1145/2830772.2830780)]
 3. Accurate phase-level cross-platform power and performance estimation [[DAC'16](https://dl.acm.org/doi/10.1145/2830772.2830780)]
 4. HALWPE: Hardware-Assisted Light Weight Performance Estimation for GPUs [[DAC'17](https://dl.acm.org/doi/10.1145/3061639.3062257)]
