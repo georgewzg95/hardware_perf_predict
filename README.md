@@ -28,3 +28,4 @@ This is a paper collection of performance prediction for hardware
 ## Disertation
 1. Performance and Power Prediction of Compute Accelerators Using Machine Learning [[Link](https://drive.google.com/file/d/1RDAIQrshKoAtCXVA_7LNMJEL0-MbwLKW/view?usp=sharing)]
 2. Learning-based power modeling for FPGA : from design time to run time [[Link](https://lbezone.ust.hk/pdfviewer/web/viewer.php?file=aHR0cHM6Ly9sYmV6b25lLnVzdC5oay9vYmovMS9vLzk5MTAxMjc4NjI2OTQwMzQxMi85OTEwMTI3ODYyNjk0MDM0MTIucGRm#page=1)]
+3. Performance, Power, and Confidence Modeling of Digital Designs [[Link](https://repositories.lib.utexas.edu/bitstream/handle/2152/31420/WU-DISSERTATION-2015.pdf?sequence=1&isAllowed=y)]
