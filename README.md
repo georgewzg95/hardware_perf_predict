@@ -17,6 +17,10 @@ This is a paper collection of performance prediction for hardware
 5. A Graph Deep Learning Framework for High-Level Synthesis Design Space Exploration [[Arxiv](https://arxiv.org/pdf/2111.14767.pdf)]
 6. ScaleHLS: A New Scalable High-Level Synthesis Framework on Multi-Level Intermediate Representation [[HPCA'22](https://arxiv.org/pdf/2111.14767.pdf)]
 
+## RTL power modelling for FPGA
+1. Power Modeling on FPGA: A Neural Model for RT-Level Power Estimation [[Link](https://drive.google.com/file/d/10QPPFK522y1j_EtNjIhFwAUKYHClSXSS/view?usp=sharing)]
+2. Dynamic Power Estimation Based on Switching Activity Propagation [[Link](https://drive.google.com/file/d/1y_B0g_Gul2FGeWGjvHx33rgRMYb_stPC/view?usp=sharing)]
+
 ## Other Relevant Papers
 1. Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks [[ICML'19](https://arxiv.org/abs/1808.07412)][[code](https://github.com/ithemal/Ithemal)]
 2. GPGPU Performance and Power Estimation Using Machine Learning [[HPCA'15](http://users.ece.utexas.edu/~derek/Papers/HPCA2015_GPUPowerModel.pdf)]
