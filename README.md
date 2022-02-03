@@ -19,6 +19,7 @@ This is a paper collection of performance prediction for hardware
 7. High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing [[arxiv](https://arxiv.org/abs/2201.06848)]
 8. PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs [[DATE'22](https://arxiv.org/abs/2201.10114)]
 9. HL-Pow: A Learning-Based Power Modeling Framework for High-Level Synthesis [[ASP-DAC'20](https://arxiv.org/abs/2009.00871)]
+10. Accurate Operation Delay Prediction for FPGA HLS Using Graph Neural Networks [[ICCAD'20](https://www.csl.cornell.edu/~zhiruz/pdfs/dsp-gnn-iccad2020.pdf)]
 
 ## RTL power modelling for FPGA
 1. Power Modeling on FPGA: A Neural Model for RT-Level Power Estimation [[Link](https://drive.google.com/file/d/10QPPFK522y1j_EtNjIhFwAUKYHClSXSS/view?usp=sharing)]
