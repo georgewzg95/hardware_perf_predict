@@ -17,7 +17,8 @@ This is a paper collection of performance prediction for hardware
 5. A Graph Deep Learning Framework for High-Level Synthesis Design Space Exploration [[Arxiv](https://arxiv.org/pdf/2111.14767.pdf)]
 6. ScaleHLS: A New Scalable High-Level Synthesis Framework on Multi-Level Intermediate Representation [[HPCA'22](https://arxiv.org/pdf/2111.14767.pdf)]
 7. High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing [[arxiv](https://arxiv.org/abs/2201.06848)]
-8. PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs [[arxiv](https://arxiv.org/abs/2201.10114)]
+8. PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs [[DATE'22](https://arxiv.org/abs/2201.10114)]
+9. HL-Pow: A Learning-Based Power Modeling Framework for High-Level Synthesis [[ASP-DAC'20](https://arxiv.org/abs/2009.00871)]
 
 ## RTL power modelling for FPGA
 1. Power Modeling on FPGA: A Neural Model for RT-Level Power Estimation [[Link](https://drive.google.com/file/d/10QPPFK522y1j_EtNjIhFwAUKYHClSXSS/view?usp=sharing)]
