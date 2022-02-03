@@ -3,7 +3,7 @@ This is a paper collection of performance prediction for hardware
 
 ## Cross-Platform performance prediction
 1. Cross-architecture performance prediction (XAPP) using CPU code to predict GPU performance [[MICRO'15](https://dl.acm.org/doi/10.1145/2830772.2830780)]
-2. Accurate phase-level cross-platform power and performance estimation [[DAC'16](https://dl.acm.org/doi/10.1145/2830772.2830780)]
+2. Accurate phase-level cross-platform power and performance estimation [[DAC'16](http://slam.ece.utexas.edu/pubs/dac16.LACross.pdf)]
 3. HALWPE: Hardware-Assisted Light Weight Performance Estimation for GPUs [[DAC'17](https://dl.acm.org/doi/10.1145/3061639.3062257)]
 
 ## Program Properties
