@@ -30,7 +30,11 @@ This is a paper collection of performance prediction for hardware
 2. GPGPU Performance and Power Estimation Using Machine Learning [[HPCA'15](http://users.ece.utexas.edu/~derek/Papers/HPCA2015_GPUPowerModel.pdf)]
 3. Pyramid: Machine Learning Framework to Estimate the Optimal Timing and Resource Usage of a High-Level Synthesis Design [[FPL'19](https://drive.google.com/file/d/1qxLMsXGCWUi4kG9kyOALviH1Cgd-iXA1/view?usp=sharing)]
 4. APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors [[MICRO'21](https://dl.acm.org/doi/pdf/10.1145/3466752.3480064)]
-5. Machine Learning for Electronic Design Automation: A Survey [[Survey](https://dl.acm.org/doi/pdf/10.1145/3451179)]
+
+## Survey
+1. Machine Learning for Electronic Design Automation: A Survey [[Survey](https://dl.acm.org/doi/pdf/10.1145/3451179)]
+2. High-Level Synthesis Hardware Design for FPGA-Based Accelerators: Models, Methodologies, and Frameworks[[Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9864576)]
+
 
 
 ## Disertation
