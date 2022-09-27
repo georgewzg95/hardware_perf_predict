@@ -20,6 +20,7 @@ This is a paper collection of performance prediction for hardware
 8. PowerGear: Early-Stage Power Estimation in FPGA HLS via Heterogeneous Edge-Centric GNNs [[DATE'22](https://arxiv.org/abs/2201.10114)]
 9. HL-Pow: A Learning-Based Power Modeling Framework for High-Level Synthesis [[ASP-DAC'20](https://arxiv.org/abs/2009.00871)]
 10. Accurate Operation Delay Prediction for FPGA HLS Using Graph Neural Networks [[ICCAD'20](https://www.csl.cornell.edu/~zhiruz/pdfs/dsp-gnn-iccad2020.pdf)]
+11. Pyramid: Machine Learning Framework to Estimate the Optimal Timing and Resource Usage of a High-Level Synthesis Design [[FPL'19](https://drive.google.com/file/d/1qxLMsXGCWUi4kG9kyOALviH1Cgd-iXA1/view?usp=sharing)]
 
 ## RTL power modelling for FPGA
 1. Power Modeling on FPGA: A Neural Model for RT-Level Power Estimation [[Link](https://drive.google.com/file/d/10QPPFK522y1j_EtNjIhFwAUKYHClSXSS/view?usp=sharing)]
@@ -28,8 +29,9 @@ This is a paper collection of performance prediction for hardware
 ## Other Relevant Papers
 1. Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks [[ICML'19](https://arxiv.org/abs/1808.07412)][[code](https://github.com/ithemal/Ithemal)]
 2. GPGPU Performance and Power Estimation Using Machine Learning [[HPCA'15](http://users.ece.utexas.edu/~derek/Papers/HPCA2015_GPUPowerModel.pdf)]
-3. Pyramid: Machine Learning Framework to Estimate the Optimal Timing and Resource Usage of a High-Level Synthesis Design [[FPL'19](https://drive.google.com/file/d/1qxLMsXGCWUi4kG9kyOALviH1Cgd-iXA1/view?usp=sharing)]
-4. APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors [[MICRO'21](https://dl.acm.org/doi/pdf/10.1145/3466752.3480064)]
+3. APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors [[MICRO'21](https://dl.acm.org/doi/pdf/10.1145/3466752.3480064)]
+4. GRANNITE: Graph Neural Network Inference for Transferable Power Estimation [[DAC'20](https://research.nvidia.com/publication/2020-07_grannite-graph-neural-network-inference-transferable-power-estimation)]
+
 
 ## Survey
 1. Machine Learning for Electronic Design Automation: A Survey [[Survey](https://dl.acm.org/doi/pdf/10.1145/3451179)]
