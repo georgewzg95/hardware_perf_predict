@@ -22,9 +22,11 @@ This is a paper collection of performance prediction for hardware
 10. Accurate Operation Delay Prediction for FPGA HLS Using Graph Neural Networks [[ICCAD'20](https://www.csl.cornell.edu/~zhiruz/pdfs/dsp-gnn-iccad2020.pdf)]
 11. Pyramid: Machine Learning Framework to Estimate the Optimal Timing and Resource Usage of a High-Level Synthesis Design [[FPL'19](https://drive.google.com/file/d/1qxLMsXGCWUi4kG9kyOALviH1Cgd-iXA1/view?usp=sharing)]
 
-## RTL power modelling for FPGA
+## RTL-level prediction task
 1. Power Modeling on FPGA: A Neural Model for RT-Level Power Estimation [[Link](https://drive.google.com/file/d/10QPPFK522y1j_EtNjIhFwAUKYHClSXSS/view?usp=sharing)]
 2. Dynamic Power Estimation Based on Switching Activity Propagation [[Link](https://drive.google.com/file/d/1y_B0g_Gul2FGeWGjvHx33rgRMYb_stPC/view?usp=sharing)]
+3. SNS’s not a Synthesizer: A Deep-Learning-Based Synthesis Predictor [[ISCA'22](https://drive.google.com/file/d/1ks8W4jWDXqYfUtxfLfj2ooNAQBcnVps_/view?usp=share_link)]
+4. How Good Is Your Verilog RTL Code? A Quick Answer from Machine Learning [[ICCAD'22](https://drive.google.com/file/d/1N9oosLZlT6MZobi33jAyBBx6UoNOkA1K/view?usp=sharing)]
 
 ## Other Relevant Papers
 1. Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks [[ICML'19](https://arxiv.org/abs/1808.07412)][[code](https://github.com/ithemal/Ithemal)]
