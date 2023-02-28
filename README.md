@@ -36,7 +36,7 @@ This is a paper collection of performance prediction for hardware
 5. Spector: An OpenCL FPGA Benchmark Suite [[FPT'16](https://drive.google.com/file/d/1gPVINlk0ycxSYUNWDm12RoffP_RGmL3R/view?usp=share_link)][[source](https:llgithub.comlKastnerRG/spector)]
 6. MLSBench: A Benchmark Set for Machine Learning based FPGA HLS Design Flows [[LASCAS'22](https://drive.google.com/file/d/1qDstB8OdGOBsO-k_8Uq2QYC5Mi8pAguB/view?usp=share_link)][[source](https://zenodo.org/record/3406668#.Y_5IlXaZOUk)]
 7. OpenABC-D: A Large-Scale Dataset For Machine Learning Guided Integrated Circuit Synthesis [[arxiv](https://drive.google.com/file/d/1x1ix-0ArOwRQgwCwHPuxskzBnGfI73HI/view?usp=share_link)][[source](https://github.com/nyu-mlda/openabc)]
-8. CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA) [[arxiv)(https://drive.google.com/file/d/1i1pj_4BD0ubWLto7TGUnrFxjD3GifAu0/view?usp=share_link)][[source](https://circuitnet.github.io/)]
+8. CircuitNet: An Open-Source Dataset for Machine Learning Applications in Electronic Design Automation (EDA) [[arxiv](https://drive.google.com/file/d/1i1pj_4BD0ubWLto7TGUnrFxjD3GifAu0/view?usp=share_link)][[source](https://circuitnet.github.io/)]
 
 
 ## Survey
